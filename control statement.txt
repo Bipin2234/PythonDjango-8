@@ -1,0 +1,34 @@
+CONTROL STATEMENTS
+-if statement
+if(con):
+    ...
+elif(con):
+  ...
+...
+else:
+---nested if
+if(con):
+        if(con):
+        statement
+()(()()())  ALTERNATE OF ELIF
+-MATCH CASE STATEMENT
+
+
+
+
+LOOPING
+##WHILE LOOP
+while(condition):
+    statement.......
+
+##FOR LOOP
+ for n in range(1,11):
+print(n)
+
+
+
+
+
+
+
+-select case

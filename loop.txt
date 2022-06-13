@@ -1,0 +1,8 @@
+LOOPING
+
+#loop design
+-start value
+-stop value
+-condition
+-statement
+-modifier

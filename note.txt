@@ -1,0 +1,106 @@
+#,
+"""    """"(comment)
+
+VARIABLES DONT hAVE TYPE
+
+()()()()()DATA TYPES()()()()()
+1. Basic
+   -bool(true/false)    [[print(type(variable))]-shows var type
+   -int(whole number)
+   -float(fractional/decimal value)
+   -complex no
+2. Extended
+   -str(string)
+   -list---[askhf,sakdja,wadj](multiple value)
+   -tuple---(True,343,99.88,False,other variable) (multiple value in short bracket)
+   -set---{True,False,92873,2801923.33} (can't put other existing variables)
+   -dict---{'key':value}
+   -array ---
+() from array import array (step 1)
+
+()nums=array('i',[6,7,8,9,4])
+print(max(no)) [[[prints maximum no]
+[[min lowest no]]
+[[sum=sum of no in array]]
+[[len=no of characters]]
+
+
+ |      Type code   C Type             Minimum size in bytes
+ |      'b'         signed integer     1
+ |      'B'         unsigned integer   1
+ |      'u'         Unicode character  2 (see note)
+ |      'h'         signed integer     2
+ |      'H'         unsigned integer   2
+ |      'i'         signed integer     2
+ |      'I'         unsigned integer   2
+ |      'l'         signed integer     4
+ |      'L'         unsigned integer   4
+ |      'q'         signed integer     8 (see note)
+ |      'Q'         unsigned integer   8 (see note)
+ |      'f'         floating point     4
+ |      'd'         floating point     8
+ |  
+
+()()()()()OPERATORS()()()()()
+1.
+-Assignment operator (=)
+var1= True
+var2= "helo"
+var3=123
+-Multiple assignment operator (= = =)
+var4= var5= var6= 22
+print(var4,var5,var6)
+-Short hand assignment
+print(var5+10)
+[[[var10=var10+5]=[var10+=5]]]
+
+
+
+2.Arithmetic operator (+,-,*,/)
+integer division(//)
+mod=%
+power number n=**      EG: 20 square=20**2
+
+3.Relational operator
+-equals to(==)
+-not equals to(!=)
+-greater than(>)
+-less than(<)
+-greater than or equals to(>=)
+-less than or equals to(<=)
+
+4. LOGICAL OPERATORS
+-AND
+-OR
+-.,{},[], ()
+
+
+
+
+()()()()() BASIC IO(input/output) ()()()()()
+
+v="helo"
+v1= "bye"
+v2=123
+print(v1+str(v2))
+
+print("hello{}" .format(v2))   (OUTPUT: helo123) OR print("hello"+str(v2)) [same output]
+
+input ::::: var1= input
+!!!!INPUT REVIEVED FROM INPUT IS ALWAYS STRING BY DEFAULT!!!!
+
+
+TYPE CONVERSION
+int()  converts string to integer
+
+
+.........................>>>>>>>>>>>from text_to_speech import speak<<<<<<<<<<<<<<<<<<...........................
+speak("hello world", "en", save=True, file="Hello-World.mp3", speak=True)
+
+
+
+{}{}{}{}{} record sound and store on file (".wav)
+play sound file(".wav)
+
+
+
